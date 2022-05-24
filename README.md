@@ -1,4 +1,2 @@
 # JavaWSClientSoapExample
-# JavaWSClientSoapExample
-# JavaWSClientSoapExample
-# JavaWSClientSoapExample
+
